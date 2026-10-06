@@ -139,6 +139,3 @@ C-Shell/
 ## Author
 Navya Upadhyay
 
-## Acknowledgment
-
-The original implementation files were shared with permission by Satvik Shrivastava (`blotify`) from a parallel version of the same shell assignment. This repository is maintained and presented by Navya Upadhyay.
